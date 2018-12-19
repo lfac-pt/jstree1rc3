@@ -1,0 +1,18 @@
+{
+  "name": "@lfac/jstree1rc3",
+  "version": "0.0.0",
+  "description": "A version of jstree 1.0-rc3 updated to work with jQuery 3.x",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfac-pt/jstree1rc3.git"
+  },
+  "keywords": [
+    "jstree"
+  ],
+  "author": "me@lfac.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lfac-pt/jstree1rc3/issues"
+  },
+  "homepage": "https://github.com/lfac-pt/jstree1rc3#readme"
+}
