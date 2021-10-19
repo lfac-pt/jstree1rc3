@@ -798,7 +798,7 @@
 				obj = this._get_node(obj);
 				if(!obj.length) { return false; }
 				var s = this._get_settings().core.html_titles;
-				obj = obj.children("a:eq(0)");
+				obj = obj.find("span");
 				if(s) {
 					obj = obj.clone();
 					obj.children("INS").remove();
